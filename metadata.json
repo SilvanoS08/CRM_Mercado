@@ -1,0 +1,8 @@
+{
+  "name": "ERP Simplificado",
+  "description": "Sistema ERP simples para controle de produtos, estoque, vendas e dashboard de métricas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
